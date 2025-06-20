@@ -1,0 +1,5 @@
+site_name: jikewang's blog
+site_url: https://jikewang.github.io
+site_author: jikewang
+theme:
+  name: material #主题
