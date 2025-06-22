@@ -1,17 +1,31 @@
-# Welcome to MkDocs
+这里是一些读书的摘录。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 古诗文
 
-## Commands
+为谁开，茶花满路？敝屣荣华，浮云生死，此身何惧！--金庸《天龙八部》
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+红颜弹指老，刹那芳华。糊涂醉，几时把痴心断。--金庸《天龙八部》
 
-## Project layout
+向来痴，从此醉。--金庸《天龙八部》
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+小桃无主自开花，烟草茫茫带晚鸦。几处败垣围故井，向来一一是人家。--戴复古
+
+“家国天下”意识是中华文明长期延续的观念基础。（[光明日报](http://theory.people.com.cn/n1/2019/1028/c40531-31423123.html)）
+
+姹紫嫣红开遍，似这般都付与断井颓垣。--汤显祖《皂罗袍》
+
+踏青归去春犹浅，明日重来花满床。--孔尚任《桃花扇》
+
+长风破浪会有时，直挂云帆济沧海。 --李白《行路难·其一》
+
+耐冷耐苦，耐劳耐闲。 —— 《曾国藩家书》
+
+挽弓当挽强，用箭当用长。射人先射马，擒贼先擒王。杀人亦有限，列国自有疆。苟能制侵陵，岂在多杀伤。—— 杜甫[《前出塞》](https://baike.baidu.com/item/%E5%89%8D%E5%87%BA%E5%A1%9E%E4%B9%9D%E9%A6%96/3030377)
+
+满窗明月满帘霜，被冷灯残拂卧床。燕子楼中霜月夜，秋来只为一人长。—— 白居易
+
+泰山不让土壤，故能成其大，河海不择细流，故能就其深。 —— 李斯《谏逐客书》
+
+寧鳴而死，不默而生。憂於未形，恐於未熾。 —— [范仲淹《靈烏賦》](https://zh.wikisource.org/wiki/%E3%80%8C%E5%AF%A7%E9%B3%B4%E8%80%8C%E6%AD%BB%EF%BC%8C%E4%B8%8D%E9%BB%98%E8%80%8C%E7%94%9F%E3%80%8D)
+
+不以物喜，不以己悲。居廟堂之高，則憂其民；處江湖之遠，則憂其君。—— [范仲淹《岳陽樓記》](https://zh.wikisource.org/wiki/%E5%B2%B3%E9%99%BD%E6%A8%93%E8%A8%98)
