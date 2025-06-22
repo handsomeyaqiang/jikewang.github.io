@@ -1,5 +1,5 @@
 site_name: 个人笔记
-site_url: https://jikewang.github.io
+site_url: https://handsomeyaqiang.github.io
 
 plugins:
   - literate-nav:
